@@ -1,5 +1,5 @@
-[![Build Status](https://img.shields.io/travis/embenzekri/cryptocurrency-exchange.svg?style=flat)](https://travis-ci.org/AitBassouAli/cryptocurrency-exchange)
-[![codecov](https://img.shields.io/codecov/c/github/embenzekri/cryptocurrency-exchange.svg?style=flat)](https://codecov.io/gh/AitBassouAli/cryptocurrency-exchange/branch/master)
+[![Build Status](https://img.shields.io/travis/AitBassouAli/cryptocurrency-exchange.svg?style=flat)](https://travis-ci.org/AitBassouAli/cryptocurrency-exchange)
+[![codecov](https://img.shields.io/codecov/c/github/AitBassouAli/cryptocurrency-exchange.svg?style=flat)](https://codecov.io/gh/AitBassouAli/cryptocurrency-exchange/branch/master)
 
 Cryptocurrency Exchange Test
 -----
